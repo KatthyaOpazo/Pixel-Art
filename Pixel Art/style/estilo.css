@@ -1,0 +1,72 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+html{
+    background-color: white;
+}
+
+body{
+    width: 580px;
+    background-color: white;
+    margin: 10px;
+    margin-left: 345px;
+}
+
+#blanco{
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    float: left;
+}
+
+#negro{
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    float: left;
+}
+
+#amarillo{
+    width: 20px;
+    height: 20px;
+    background-color: yellow;
+    float: left;
+}
+
+
+#piel{
+    width: 20px;
+    height: 20px;
+    background-color: darksalmon;
+    float: left;
+}
+
+#rojo{
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    float: left;
+}
+
+#azul{
+    width: 20px;
+    height: 20px;
+    background-color: darkblue;
+    float: left;
+}
+
+#naranjaoscuro{
+    width: 20px;
+    height: 20px;
+    background-color: orangered;
+    float: left;
+}
+
+#naranjaclaro{
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    float: left;
+}
